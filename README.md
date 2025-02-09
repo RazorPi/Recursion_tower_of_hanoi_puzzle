@@ -1,5 +1,5 @@
 # Recursion_tower_of_hanoi_puzzle
-M2 / Project 3: Learning recursion by building the _Tower of Hanoi Puzzle.__ 
+M2 / Project 3: Learning recursion by building the _Tower of Hanoi Puzzle._ 
 
 
 ### ABOUT: 
