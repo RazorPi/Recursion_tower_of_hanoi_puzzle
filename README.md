@@ -9,4 +9,4 @@ M2 / Project 3: Learning recursion by building the _Tower of Hanoi Puzzle._
 ### ABOUT: 
 Recursion is a programming approach that allows you to solve complicated computational problems with just a little code.
 
-[Click here]([url](https://www.mathsisfun.com/games/towerofhanoi.html)) for an interactive version of the puzzle if you want to try it. or follow this link [url](https://www.mathsisfun.com/games/towerofhanoi.html)
+[Click here](https://www.mathsisfun.com/games/towerofhanoi.html) for an interactive version of the puzzle if you want to try it. 
